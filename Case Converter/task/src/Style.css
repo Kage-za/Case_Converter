@@ -1,0 +1,19 @@
+div {
+    font-size: 40px;
+    font-family: Verdana;
+}
+
+textarea {
+    background-color: whitesmoke;
+    width: 1900px;
+    height: 500px;
+
+}
+
+button {
+    solid-color: darksalmon;
+    color: whitesmoke;
+    background-color: darksalmon;
+    background-size: auto;
+    font-family: Verdana;
+}
